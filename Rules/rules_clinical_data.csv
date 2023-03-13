@@ -1,0 +1,336 @@
+Body,Head,Head_range,Head_Coverage,Std_Confidence,PCA_Confidence,Positive_Examples,Body_size,PCA_Body_size,Functional_variable
+?a  <hasStage>  <IIIB>   ,?a  <hasOncologicalTreatment>  <Chemotherapy-Radiotherapy>,OncologicalTreatment,0.022642785,0.475177305,0.485507246,67,141,138,?a
+?a  <hasOncologicalTreatment>  <Immunotherapy>   ,?a  <hasOncologicalTreatment>  <Chemotherapy-Radiotherapy>,OncologicalTreatment,0.015545792,0.216981132,0.216981132,46,212,212,?a
+?a  <hasStage>  <IIIA>   ,?a  <hasOncologicalTreatment>  <Chemotherapy-Radiotherapy>,OncologicalTreatment,0.030077729,0.367768595,0.369294606,89,242,241,?a
+?a  <hasOncologicalSurgery>  <Lymph_node_excision>   ,?a  <hasOncologicalTreatment>  <Chemotherapy-Radiotherapy>,OncologicalTreatment,0.011152416,0.105769231,0.106109325,33,312,311,?a
+?a  <hasOncologicalTreatment>  <Surgery>   ,?a  <hasOncologicalTreatment>  <Chemotherapy-Radiotherapy>,OncologicalTreatment,0.018925313,0.106463878,0.106463878,56,526,526,?a
+?a  <hasOncologicalTreatment>  <Radical>   ,?a  <hasOncologicalTreatment>  <Chemotherapy-Radiotherapy>,OncologicalTreatment,0.046637377,0.514925373,0.514925373,138,268,268,?a
+?a  <hasOncologicalTreatment>  <Radiotherapy>   ,?a  <hasOncologicalTreatment>  <Chemotherapy-Radiotherapy>,OncologicalTreatment,0.06725245,0.312893082,0.312893082,199,636,636,?a
+?a  <hasOncologicalTreatment>  <Chemotherapy>   ,?a  <hasOncologicalTreatment>  <Chemotherapy-Radiotherapy>,OncologicalTreatment,0.068604258,0.211018711,0.211018711,203,962,962,?a
+?a  <hasOncologicalSurgery>  <Pneumonectomy>   ,?a  <hasOncologicalSurgery>  <Lobectomy>,OncologicalSurgery,0.058498896,0.726027397,0.726027397,53,73,73,?a
+?a  <hasOncologicalTreatment>  <Chemotherapy-Radiotherapy>   ,?a  <hasOncologicalSurgery>  <Lobectomy>,OncologicalSurgery,0.046357616,0.206896552,0.724137931,42,203,58,?a
+?a  <hasOncologicalTreatment>  <Immunotherapy>   ,?a  <hasOncologicalSurgery>  <Lobectomy>,OncologicalSurgery,0.037527594,0.160377358,0.739130435,34,212,46,?a
+?a  <hasOncologicalTreatment>  <Neoadjuvant>   ,?a  <hasOncologicalSurgery>  <Lobectomy>,OncologicalSurgery,0.01214128,0.314285714,0.733333333,11,35,15,?a
+?a  <hasOncologicalTreatment>  <Adjuvant>   ,?a  <hasOncologicalSurgery>  <Lobectomy>,OncologicalSurgery,0.047461369,0.716666667,0.934782609,43,60,46,?a
+?a  <hasOncologicalTreatment>  <Radical>   ,?a  <hasOncologicalSurgery>  <Lobectomy>,OncologicalSurgery,0.06401766,0.21641791,0.743589744,58,268,78,?a
+?a  <hasOncologicalTreatment>  <Radiotherapy>   ,?a  <hasOncologicalSurgery>  <Lobectomy>,OncologicalSurgery,0.168874172,0.240566038,0.76119403,153,636,201,?a
+?a  <hasStage>  <IV>   ,?a  <hasOncologicalSurgery>  <Lobectomy>,OncologicalSurgery,0.025386313,0.080139373,0.359375,23,287,64,?a
+?a  <hasStage>  <IIA>   ,?a  <hasOncologicalSurgery>  <Lobectomy>,OncologicalSurgery,0.049668874,0.882352941,0.9375,45,51,48,?a
+?a  <hasOncologicalTreatment>  <Surgery>   ,?a  <hasOncologicalSurgery>  <Lobectomy>,OncologicalSurgery,0.465783664,0.802281369,0.95045045,422,526,444,?a
+?a  <hasOncologicalSurgery>  <Lymph_node_excision>   ,?a  <hasOncologicalSurgery>  <Lobectomy>,OncologicalSurgery,0.318984547,0.926282051,0.926282051,289,312,312,?a
+?a  <hasStage>  <IIIA>   ,?a  <hasOncologicalSurgery>  <Lobectomy>,OncologicalSurgery,0.137969095,0.516528926,0.899280576,125,242,139,?a
+?a  <hasStage>  <IIIB>   ,?a  <hasOncologicalSurgery>  <Lobectomy>,OncologicalSurgery,0.028697572,0.184397163,0.742857143,26,141,35,?a
+?a  <hasStage>  <IA>   ,?a  <hasOncologicalSurgery>  <Lobectomy>,OncologicalSurgery,0.098233996,0.847619048,0.978021978,89,105,91,?a
+?a  <hasStage>  <IIB>   ,?a  <hasOncologicalSurgery>  <Lobectomy>,OncologicalSurgery,0.056291391,0.75,0.980769231,51,68,52,?a
+?a  <hasStage>  <IB>   ,?a  <hasOncologicalSurgery>  <Lobectomy>,OncologicalSurgery,0.088300221,0.842105263,0.975609756,80,95,82,?a
+?a  <Biomarker>  <EGFR>   ,?a  <hasOncologicalSurgery>  <Lobectomy>,OncologicalSurgery,0.020971302,0.228915663,0.59375,19,83,32,?a
+?a  <hasOncologicalTreatment>  <Chemotherapy>   ,?a  <hasOncologicalSurgery>  <Lobectomy>,OncologicalSurgery,0.292494481,0.275467775,0.784023669,265,962,338,?a
+?a  <Biomarker>  <ALK>   ,?a  <hasOncologicalSurgery>  <Lobectomy>,OncologicalSurgery,0.011037528,0.303030303,0.833333333,10,33,12,?a
+?a  <Biomarker>  <PDL1>   ,?a  <hasOncologicalSurgery>  <Lobectomy>,OncologicalSurgery,0.014348786,0.092857143,0.866666667,13,140,15,?a
+?a  <hasStage>  <IIIC>   ,?a  <Biomarker>  <PDL1>,Biomarker,0.026717557,0.368421053,1,7,19,7,?a
+?a  <Biomarker>  <BRAF>   ,?a  <Biomarker>  <PDL1>,Biomarker,0.011450382,0.75,0.75,3,4,4,?a
+?a  <Biomarker>  <ALK>   ,?a  <Biomarker>  <PDL1>,Biomarker,0.030534351,0.242424242,0.242424242,8,33,33,?a
+?a  <Biomarker>  <EGFR>   ,?a  <Biomarker>  <PDL1>,Biomarker,0.045801527,0.144578313,0.144578313,12,83,83,?a
+?a  <hasStage>  <IV>   ,?a  <Biomarker>  <PDL1>,Biomarker,0.053435115,0.048780488,0.233333333,14,287,60,?a
+?a  <hasStage>  <IVB>   ,?a  <Biomarker>  <PDL1>,Biomarker,0.198473282,0.433333333,0.8,52,120,65,?a
+?a  <hasStage>  <IIIB>   ,?a  <Biomarker>  <PDL1>,Biomarker,0.049618321,0.092198582,0.684210526,13,141,19,?a
+?a  <hasStage>  <IVA>   ,?a  <Biomarker>  <PDL1>,Biomarker,0.122137405,0.380952381,0.888888889,32,84,36,?a
+?a  <hasOncologicalTreatment>  <Chemotherapy-Radiotherapy>   ,?a  <Biomarker>  <PDL1>,Biomarker,0.072519084,0.093596059,0.633333333,19,203,30,?a
+?a  <hasStage>  <IIIA>   ,?a  <Biomarker>  <PDL1>,Biomarker,0.061068702,0.066115702,0.470588235,16,242,34,?a
+?a  <hasOncologicalTreatment>  <Surgery>   ,?a  <Biomarker>  <PDL1>,Biomarker,0.099236641,0.049429658,0.472727273,26,526,55,?a
+?a  <hasOncologicalTreatment>  <Radiotherapy>   ,?a  <Biomarker>  <PDL1>,Biomarker,0.29389313,0.121069182,0.57037037,77,636,135,?a
+?a  <hasOncologicalSurgery>  <Lymph_node_excision>   ,?a  <Biomarker>  <PDL1>,Biomarker,0.038167939,0.032051282,0.333333333,10,312,30,?a
+?a  <hasOncologicalTreatment>  <Radical>   ,?a  <Biomarker>  <PDL1>,Biomarker,0.122137405,0.119402985,0.62745098,32,268,51,?a
+?a  <hasOncologicalTreatment>  <Immunotherapy>   ,?a  <Biomarker>  <PDL1>,Biomarker,0.278625954,0.344339623,0.924050633,73,212,79,?a
+?a  <hasOncologicalTreatment>  <Chemotherapy>   ,?a  <Biomarker>  <PDL1>,Biomarker,0.469465649,0.127858628,0.580188679,123,962,212,?a
+?a  <hasOncologicalTreatment>  <Chemotherapy-Radiotherapy>   ,?a  <hasOncologicalTreatment>  <Immunotherapy>,OncologicalTreatment,0.015545792,0.226600985,0.226600985,46,203,203,?a
+?a  <hasOncologicalTreatment>  <Surgery>   ,?a  <hasOncologicalTreatment>  <Immunotherapy>,OncologicalTreatment,0.018925313,0.106463878,0.106463878,56,526,526,?a
+?a  <hasOncologicalTreatment>  <Radical>   ,?a  <hasOncologicalTreatment>  <Immunotherapy>,OncologicalTreatment,0.021290977,0.235074627,0.235074627,63,268,268,?a
+?a  <hasOncologicalSurgery>  <Lobectomy>   ,?a  <Biomarker>  <PDL1>,Biomarker,0.049618321,0.028953229,0.325,13,449,40,?a
+?a  <hasStage>  <IV>   ,?a  <hasOncologicalTreatment>  <Immunotherapy>,OncologicalTreatment,0.017911457,0.18466899,0.194139194,53,287,273,?a
+?a  <hasOncologicalTreatment>  <Radiotherapy>   ,?a  <hasOncologicalTreatment>  <Immunotherapy>,OncologicalTreatment,0.046637377,0.216981132,0.216981132,138,636,636,?a
+?a  <hasStage>  <IVA>   ,?a  <hasOncologicalTreatment>  <Immunotherapy>,OncologicalTreatment,0.012842176,0.452380952,0.506666667,38,84,75,?a
+?a  <hasStage>  <IVB>   ,?a  <hasOncologicalTreatment>  <Immunotherapy>,OncologicalTreatment,0.014193984,0.35,0.362068966,42,120,116,?a
+?a  <hasOncologicalTreatment>  <Chemotherapy>   ,?a  <hasOncologicalTreatment>  <Immunotherapy>,OncologicalTreatment,0.07063197,0.217255717,0.217255717,209,962,962,?a
+?a  <Biomarker>  <PDL1>   ,?a  <hasOncologicalTreatment>  <Immunotherapy>,OncologicalTreatment,0.024670497,0.521428571,0.544776119,73,140,134,?a
+?a  <hasOncologicalTreatment>  <Chemotherapy-Radiotherapy>   ,?a  <hasOncologicalTreatment>  <Radical>,OncologicalTreatment,0.046637377,0.679802956,0.679802956,138,203,203,?a
+?a  <hasOncologicalTreatment>  <Surgery>   ,?a  <hasOncologicalTreatment>  <Radical>,OncologicalTreatment,0.025684353,0.144486692,0.144486692,76,526,526,?a
+?a  <hasOncologicalTreatment>  <Immunotherapy>   ,?a  <hasOncologicalTreatment>  <Radical>,OncologicalTreatment,0.021290977,0.297169811,0.297169811,63,212,212,?a
+?a  <hasOncologicalTreatment>  <Prophylactic>   ,?a  <hasOncologicalTreatment>  <Radical>,OncologicalTreatment,0.012504224,0.660714286,0.660714286,37,56,56,?a
+?a  <hasStage>  <IV>   ,?a  <hasOncologicalTreatment>  <Radical>,OncologicalTreatment,0.010476512,0.108013937,0.113553114,31,287,273,?a
+?a  <hasOncologicalTreatment>  <Radiotherapy>   ,?a  <hasOncologicalTreatment>  <Radical>,OncologicalTreatment,0.090571139,0.421383648,0.421383648,268,636,636,?a
+?a  <hasStage>  <IIIB>   ,?a  <hasOncologicalTreatment>  <Radical>,OncologicalTreatment,0.021290977,0.446808511,0.456521739,63,141,138,?a
+?a  <hasStage>  <IIIA>   ,?a  <hasOncologicalTreatment>  <Radical>,OncologicalTreatment,0.029739777,0.363636364,0.365145228,88,242,241,?a
+?a  <hasOncologicalSurgery>  <Lymph_node_excision>   ,?a  <hasOncologicalTreatment>  <Radical>,OncologicalTreatment,0.01351808,0.128205128,0.128617363,40,312,311,?a
+?a  <hasOncologicalSurgery>  <Lobectomy>   ,?a  <hasOncologicalTreatment>  <Radical>,OncologicalTreatment,0.019601217,0.129175947,0.129175947,58,449,449,?a
+?a  <hasOncologicalTreatment>  <Chemotherapy>   ,?a  <hasOncologicalTreatment>  <Radical>,OncologicalTreatment,0.086515715,0.266112266,0.266112266,256,962,962,?a
+?a  <hasOncologicalTreatment>  <Chemotherapy-Radiotherapy>   ,?a  <hasOncologicalTreatment>  <Surgery>,OncologicalTreatment,0.018925313,0.275862069,0.275862069,56,203,203,?a
+?a  <hasOncologicalTreatment>  <Immunotherapy>   ,?a  <hasOncologicalTreatment>  <Surgery>,OncologicalTreatment,0.018925313,0.264150943,0.264150943,56,212,212,?a
+?a  <Biomarker>  <PDL1>   ,?a  <hasOncologicalTreatment>  <Radical>,OncologicalTreatment,0.010814464,0.228571429,0.23880597,32,140,134,?a
+?a  <hasOncologicalTreatment>  <Adjuvant>   ,?a  <hasOncologicalTreatment>  <Surgery>,OncologicalTreatment,0.015883745,0.783333333,0.783333333,47,60,60,?a
+?a  <hasOncologicalTreatment>  <Radical>   ,?a  <hasOncologicalTreatment>  <Surgery>,OncologicalTreatment,0.025684353,0.28358209,0.28358209,76,268,268,?a
+?a  <hasStage>  <IIA>   ,?a  <hasOncologicalTreatment>  <Surgery>,OncologicalTreatment,0.016897601,0.980392157,0.980392157,50,51,51,?a
+?a  <hasStage>  <IIIA>   ,?a  <hasOncologicalTreatment>  <Surgery>,OncologicalTreatment,0.049678946,0.607438017,0.609958506,147,242,241,?a
+?a  <hasStage>  <IB>   ,?a  <hasOncologicalTreatment>  <Surgery>,OncologicalTreatment,0.030753633,0.957894737,0.957894737,91,95,95,?a
+?a  <hasOncologicalTreatment>  <Chemotherapy>   ,?a  <hasOncologicalTreatment>  <Surgery>,OncologicalTreatment,0.106116931,0.326403326,0.326403326,314,962,962,?a
+?a  <hasStage>  <IA>   ,?a  <hasOncologicalTreatment>  <Surgery>,OncologicalTreatment,0.034471105,0.971428571,0.971428571,102,105,105,?a
+?a  <hasStage>  <IIB>   ,?a  <hasOncologicalTreatment>  <Surgery>,OncologicalTreatment,0.020277121,0.882352941,0.882352941,60,68,68,?a
+?a  <hasOncologicalSurgery>  <Pneumonectomy>   ,?a  <hasOncologicalTreatment>  <Surgery>,OncologicalTreatment,0.020615073,0.835616438,0.835616438,61,73,73,?a
+?a  <hasOncologicalSurgery>  <Lobectomy>   ,?a  <hasOncologicalTreatment>  <Surgery>,OncologicalTreatment,0.142615749,0.93986637,0.93986637,422,449,449,?a
+?a  <hasOncologicalTreatment>  <Radiotherapy>   ,?a  <hasOncologicalTreatment>  <Surgery>,OncologicalTreatment,0.060155458,0.279874214,0.279874214,178,636,636,?a
+?a  <hasOncologicalSurgery>  <Lymph_node_excision>   ,?a  <hasOncologicalTreatment>  <Surgery>,OncologicalTreatment,0.097330179,0.923076923,0.926045016,288,312,311,?a
+?a  <hasOncologicalSurgery>  <Pneumonectomy>   ,?a  <hasOncologicalSurgery>  <Lymph_node_excision>,OncologicalSurgery,0.039735099,0.493150685,0.493150685,36,73,73,?a
+?a  <hasStage>  <IV>   ,?a  <hasOncologicalSurgery>  <Lymph_node_excision>,OncologicalSurgery,0.025386313,0.080139373,0.359375,23,287,64,?a
+?a  <hasStage>  <IIA>   ,?a  <hasOncologicalSurgery>  <Lymph_node_excision>,OncologicalSurgery,0.036423841,0.647058824,0.6875,33,51,48,?a
+?a  <hasOncologicalSurgery>  <Lobectomy>   ,?a  <hasOncologicalSurgery>  <Lymph_node_excision>,OncologicalSurgery,0.318984547,0.643652561,0.643652561,289,449,449,?a
+?a  <hasStage>  <IA>   ,?a  <hasOncologicalSurgery>  <Lymph_node_excision>,OncologicalSurgery,0.071743929,0.619047619,0.714285714,65,105,91,?a
+?a  <hasStage>  <IIIA>   ,?a  <hasOncologicalSurgery>  <Lymph_node_excision>,OncologicalSurgery,0.091611479,0.342975207,0.597122302,83,242,139,?a
+?a  <hasStage>  <IB>   ,?a  <hasOncologicalSurgery>  <Lymph_node_excision>,OncologicalSurgery,0.055187638,0.526315789,0.609756098,50,95,82,?a
+?a  <hasStage>  <IIIB>   ,?a  <hasOncologicalSurgery>  <Lymph_node_excision>,OncologicalSurgery,0.018763797,0.120567376,0.485714286,17,141,35,?a
+?a  <hasStage>  <IIB>   ,?a  <hasOncologicalSurgery>  <Lymph_node_excision>,OncologicalSurgery,0.038631347,0.514705882,0.673076923,35,68,52,?a
+?a  <hasOncologicalTreatment>  <Chemotherapy-Radiotherapy>   ,?a  <hasOncologicalSurgery>  <Lymph_node_excision>,OncologicalSurgery,0.036423841,0.162561576,0.568965517,33,203,58,?a
+?a  <hasOncologicalTreatment>  <Immunotherapy>   ,?a  <hasOncologicalSurgery>  <Lymph_node_excision>,OncologicalSurgery,0.028697572,0.122641509,0.565217391,26,212,46,?a
+?a  <hasOncologicalTreatment>  <Surgery>   ,?a  <hasOncologicalSurgery>  <Lymph_node_excision>,OncologicalSurgery,0.317880795,0.547528517,0.648648649,288,526,444,?a
+?a  <hasOncologicalTreatment>  <Radiotherapy>   ,?a  <hasOncologicalSurgery>  <Lymph_node_excision>,OncologicalSurgery,0.131346578,0.187106918,0.592039801,119,636,201,?a
+?a  <hasOncologicalTreatment>  <Adjuvant>   ,?a  <hasOncologicalSurgery>  <Lymph_node_excision>,OncologicalSurgery,0.029801325,0.45,0.586956522,27,60,46,?a
+?a  <hasOncologicalTreatment>  <Radical>   ,?a  <hasOncologicalSurgery>  <Lymph_node_excision>,OncologicalSurgery,0.04415011,0.149253731,0.512820513,40,268,78,?a
+?a  <Biomarker>  <EGFR>   ,?a  <hasOncologicalSurgery>  <Lymph_node_excision>,OncologicalSurgery,0.016556291,0.180722892,0.46875,15,83,32,?a
+?a  <hasOncologicalTreatment>  <Chemotherapy>   ,?a  <hasOncologicalSurgery>  <Lymph_node_excision>,OncologicalSurgery,0.213024283,0.200623701,0.571005917,193,962,338,?a
+?a  <Biomarker>  <PDL1>   ,?a  <hasOncologicalSurgery>  <Lymph_node_excision>,OncologicalSurgery,0.011037528,0.071428571,0.666666667,10,140,15,?a
+?a  <hasOncologicalTreatment>  <Immunotherapy>   ,?a  <hasStage>  <IV>,Stage,0.042673108,0.25,0.25,53,212,212,?a
+?a  <hasOncologicalTreatment>  <Radiotherapy>   ,?a  <hasStage>  <IV>,Stage,0.12962963,0.253144654,0.253144654,161,636,636,?a
+?a  <hasOncologicalTreatment>  <Radical>   ,?a  <hasStage>  <IV>,Stage,0.024959742,0.115671642,0.115671642,31,268,268,?a
+?a  <hasOncologicalSurgery>  <Pleurodesis>   ,?a  <hasStage>  <IV>,Stage,0.027375201,0.641509434,0.641509434,34,53,53,?a
+?a  <Biomarker>  <PDL1>   ,?a  <hasStage>  <IV>,Stage,0.011272142,0.1,0.1,14,140,140,?a
+?a  <Biomarker>  <ALK>   ,?a  <hasStage>  <IV>,Stage,0.012882448,0.484848485,0.484848485,16,33,33,?a
+?a  <Biomarker>  <EGFR>   ,?a  <hasStage>  <IV>,Stage,0.025764895,0.385542169,0.385542169,32,83,83,?a
+?a  <hasOncologicalTreatment>  <Chemotherapy>   ,?a  <hasStage>  <IV>,Stage,0.208534622,0.269230769,0.269230769,259,962,962,?a
+?a  <hasOncologicalTreatment>  <Surgery>   ,?a  <hasStage>  <IA>,Stage,0.082125604,0.19391635,0.19391635,102,526,526,?a
+?a  <hasOncologicalSurgery>  <Lymph_node_excision>   ,?a  <hasStage>  <IA>,Stage,0.052334944,0.208333333,0.208333333,65,312,312,?a
+?a  <hasOncologicalSurgery>  <Lobectomy>   ,?a  <hasStage>  <IA>,Stage,0.071658615,0.198218263,0.198218263,89,449,449,?a
+?a  <hasOncologicalTreatment>  <Immunotherapy>   ,?a  <hasStage>  <IVB>,Stage,0.033816425,0.198113208,0.198113208,42,212,212,?a
+?a  <hasOncologicalTreatment>  <Chemotherapy>   ,?a  <hasStage>  <IVB>,Stage,0.087761675,0.113305613,0.113305613,109,962,962,?a
+?a  <Biomarker>  <PDL1>   ,?a  <hasStage>  <IVB>,Stage,0.041867955,0.371428571,0.371428571,52,140,140,?a
+?a  <Biomarker>  <EGFR>   ,?a  <hasStage>  <IVB>,Stage,0.01610306,0.240963855,0.240963855,20,83,83,?a
+?a  <hasOncologicalTreatment>  <Chemotherapy-Radiotherapy>   ,?a  <hasStage>  <IIIB>,Stage,0.05394525,0.330049261,0.330049261,67,203,203,?a
+?a  <hasOncologicalTreatment>  <Radiotherapy>   ,?a  <hasStage>  <IVB>,Stage,0.060386473,0.117924528,0.117924528,75,636,636,?a
+?a  <hasOncologicalTreatment>  <Radiotherapy>   ,?a  <hasStage>  <IIIB>,Stage,0.078904992,0.15408805,0.15408805,98,636,636,?a
+?a  <hasOncologicalTreatment>  <Neoadjuvant>   ,?a  <hasStage>  <IIIB>,Stage,0.011272142,0.4,0.4,14,35,35,?a
+?a  <hasOncologicalTreatment>  <Radical>   ,?a  <hasStage>  <IIIB>,Stage,0.050724638,0.235074627,0.235074627,63,268,268,?a
+?a  <hasOncologicalTreatment>  <Prophylactic>   ,?a  <hasStage>  <IIIB>,Stage,0.011272142,0.25,0.25,14,56,56,?a
+?a  <hasOncologicalTreatment>  <Immunotherapy>   ,?a  <hasStage>  <IIIB>,Stage,0.019323671,0.113207547,0.113207547,24,212,212,?a
+?a  <hasOncologicalTreatment>  <Chemotherapy-Radiotherapy>   ,?a  <hasStage>  <IIIA>,Stage,0.071658615,0.438423645,0.438423645,89,203,203,?a
+?a  <hasOncologicalTreatment>  <Surgery>   ,?a  <hasStage>  <IIIA>,Stage,0.118357488,0.279467681,0.279467681,147,526,526,?a
+?a  <hasOncologicalTreatment>  <Immunotherapy>   ,?a  <hasStage>  <IIIA>,Stage,0.020128824,0.117924528,0.117924528,25,212,212,?a
+?a  <hasOncologicalTreatment>  <Neoadjuvant>   ,?a  <hasStage>  <IIIA>,Stage,0.016908213,0.6,0.6,21,35,35,?a
+?a  <hasOncologicalTreatment>  <Radiotherapy>   ,?a  <hasStage>  <IIIA>,Stage,0.133655395,0.261006289,0.261006289,166,636,636,?a
+?a  <hasOncologicalTreatment>  <Prophylactic>   ,?a  <hasStage>  <IIIA>,Stage,0.010466989,0.232142857,0.232142857,13,56,56,?a
+?a  <hasOncologicalTreatment>  <Chemotherapy>   ,?a  <hasStage>  <IIIB>,Stage,0.106280193,0.137214137,0.137214137,132,962,962,?a
+?a  <hasOncologicalTreatment>  <Radical>   ,?a  <hasStage>  <IIIA>,Stage,0.070853462,0.328358209,0.328358209,88,268,268,?a
+?a  <hasOncologicalSurgery>  <Lymph_node_excision>   ,?a  <hasStage>  <IIIA>,Stage,0.066827697,0.266025641,0.266025641,83,312,312,?a
+?a  <Biomarker>  <EGFR>   ,?a  <hasStage>  <IIIA>,Stage,0.011272142,0.168674699,0.168674699,14,83,83,?a
+?a  <Biomarker>  <PDL1>   ,?a  <hasStage>  <IIIA>,Stage,0.012882448,0.114285714,0.114285714,16,140,140,?a
+?a  <hasOncologicalTreatment>  <Adjuvant>   ,?a  <hasStage>  <IIIA>,Stage,0.028180354,0.583333333,0.583333333,35,60,60,?a
+?a  <hasOncologicalSurgery>  <Pneumonectomy>   ,?a  <hasStage>  <IIIA>,Stage,0.024154589,0.410958904,0.410958904,30,73,73,?a
+?a  <hasOncologicalTreatment>  <Chemotherapy>   ,?a  <hasStage>  <IIIA>,Stage,0.169887279,0.219334719,0.219334719,211,962,962,?a
+?a  <hasOncologicalSurgery>  <Lobectomy>   ,?a  <hasStage>  <IIIA>,Stage,0.100644122,0.278396437,0.278396437,125,449,449,?a
+?a  <hasOncologicalTreatment>  <Neoadjuvant>   ,?a  <hasOncologicalTreatment>  <Radiotherapy>,OncologicalTreatment,0.01182832,1,1,35,35,35,?a
+?a  <hasOncologicalTreatment>  <Radical>   ,?a  <hasOncologicalTreatment>  <Radiotherapy>,OncologicalTreatment,0.090571139,1,1,268,268,268,?a
+?a  <hasOncologicalTreatment>  <Adjuvant>   ,?a  <hasOncologicalTreatment>  <Radiotherapy>,OncologicalTreatment,0.020277121,1,1,60,60,60,?a
+?a  <hasOncologicalTreatment>  <Prophylactic>   ,?a  <hasOncologicalTreatment>  <Radiotherapy>,OncologicalTreatment,0.018925313,1,1,56,56,56,?a
+?a  <hasOncologicalTreatment>  <Surgery>   ,?a  <hasOncologicalTreatment>  <Radiotherapy>,OncologicalTreatment,0.060155458,0.338403042,0.338403042,178,526,526,?a
+?a  <hasOncologicalTreatment>  <Chemotherapy-Radiotherapy>   ,?a  <hasOncologicalTreatment>  <Radiotherapy>,OncologicalTreatment,0.06725245,0.980295567,0.980295567,199,203,203,?a
+?a  <hasOncologicalTreatment>  <Immunotherapy>   ,?a  <hasOncologicalTreatment>  <Radiotherapy>,OncologicalTreatment,0.046637377,0.650943396,0.650943396,138,212,212,?a
+?a  <hasStage>  <IVA>   ,?a  <hasOncologicalTreatment>  <Radiotherapy>,OncologicalTreatment,0.012504224,0.44047619,0.493333333,37,84,75,?a
+?a  <hasStage>  <IVB>   ,?a  <hasOncologicalTreatment>  <Radiotherapy>,OncologicalTreatment,0.025346401,0.625,0.646551724,75,120,116,?a
+?a  <hasStage>  <IV>   ,?a  <hasOncologicalTreatment>  <Radiotherapy>,OncologicalTreatment,0.054410274,0.56097561,0.58974359,161,287,273,?a
+?a  <hasOncologicalTreatment>  <Chemotherapy>   ,?a  <hasOncologicalTreatment>  <Radiotherapy>,OncologicalTreatment,0.197701926,0.608108108,0.608108108,585,962,962,?a
+?a  <hasStage>  <IIIB>   ,?a  <hasOncologicalTreatment>  <Radiotherapy>,OncologicalTreatment,0.033119297,0.695035461,0.710144928,98,141,138,?a
+?a  <hasStage>  <IIIA>   ,?a  <hasOncologicalTreatment>  <Radiotherapy>,OncologicalTreatment,0.056100034,0.685950413,0.68879668,166,242,241,?a
+?a  <hasOncologicalSurgery>  <Pneumonectomy>   ,?a  <hasOncologicalTreatment>  <Radiotherapy>,OncologicalTreatment,0.01182832,0.479452055,0.479452055,35,73,73,?a
+?a  <Biomarker>  <EGFR>   ,?a  <hasOncologicalTreatment>  <Radiotherapy>,OncologicalTreatment,0.015545792,0.554216867,0.554216867,46,83,83,?a
+?a  <Biomarker>  <PDL1>   ,?a  <hasOncologicalTreatment>  <Radiotherapy>,OncologicalTreatment,0.026022305,0.55,0.574626866,77,140,134,?a
+?a  <hasOncologicalSurgery>  <Lymph_node_excision>   ,?a  <hasOncologicalTreatment>  <Radiotherapy>,OncologicalTreatment,0.040216289,0.381410256,0.382636656,119,312,311,?a
+?a  <hasOncologicalSurgery>  <Lobectomy>   ,?a  <hasOncologicalTreatment>  <Radiotherapy>,OncologicalTreatment,0.051706658,0.340757238,0.340757238,153,449,449,?a
+?a  <hasOncologicalTreatment>  <Chemotherapy-Radiotherapy>   ,?a  <hasOncologicalTreatment>  <Chemotherapy>,OncologicalTreatment,0.068604258,1,1,203,203,203,?a
+?a  <hasOncologicalTreatment>  <Surgery>   ,?a  <hasOncologicalTreatment>  <Chemotherapy>,OncologicalTreatment,0.106116931,0.596958175,0.596958175,314,526,526,?a
+?a  <hasOncologicalTreatment>  <Immunotherapy>   ,?a  <hasOncologicalTreatment>  <Chemotherapy>,OncologicalTreatment,0.07063197,0.985849057,0.985849057,209,212,212,?a
+?a  <hasOncologicalTreatment>  <Radiotherapy>   ,?a  <hasOncologicalTreatment>  <Chemotherapy>,OncologicalTreatment,0.197701926,0.919811321,0.919811321,585,636,636,?a
+?a  <hasOncologicalTreatment>  <Prophylactic>   ,?a  <hasOncologicalTreatment>  <Chemotherapy>,OncologicalTreatment,0.018925313,1,1,56,56,56,?a
+?a  <hasOncologicalTreatment>  <Neoadjuvant>   ,?a  <hasOncologicalTreatment>  <Chemotherapy>,OncologicalTreatment,0.011490368,0.971428571,0.971428571,34,35,35,?a
+?a  <hasOncologicalTreatment>  <Adjuvant>   ,?a  <hasOncologicalTreatment>  <Chemotherapy>,OncologicalTreatment,0.018925313,0.933333333,0.933333333,56,60,60,?a
+?a  <hasStage>  <IIA>   ,?a  <hasOncologicalTreatment>  <Chemotherapy>,OncologicalTreatment,0.011490368,0.666666667,0.666666667,34,51,51,?a
+?a  <hasStage>  <IVA>   ,?a  <hasOncologicalTreatment>  <Chemotherapy>,OncologicalTreatment,0.023318689,0.821428571,0.92,69,84,75,?a
+?a  <hasOncologicalTreatment>  <Radical>   ,?a  <hasOncologicalTreatment>  <Chemotherapy>,OncologicalTreatment,0.086515715,0.955223881,0.955223881,256,268,268,?a
+?a  <hasStage>  <IV>   ,?a  <hasOncologicalTreatment>  <Chemotherapy>,OncologicalTreatment,0.087529571,0.902439024,0.948717949,259,287,273,?a
+?a  <hasStage>  <IVB>   ,?a  <hasOncologicalTreatment>  <Chemotherapy>,OncologicalTreatment,0.036836769,0.908333333,0.939655172,109,120,116,?a
+?a  <hasStage>  <IB>   ,?a  <hasOncologicalTreatment>  <Chemotherapy>,OncologicalTreatment,0.012166272,0.378947368,0.378947368,36,95,95,?a
+?a  <hasStage>  <IIB>   ,?a  <hasOncologicalTreatment>  <Chemotherapy>,OncologicalTreatment,0.016559649,0.720588235,0.720588235,49,68,68,?a
+?a  <hasStage>  <IIIB>   ,?a  <hasOncologicalTreatment>  <Chemotherapy>,OncologicalTreatment,0.044609665,0.936170213,0.956521739,132,141,138,?a
+?a  <hasStage>  <IIIA>   ,?a  <hasOncologicalTreatment>  <Chemotherapy>,OncologicalTreatment,0.071307874,0.871900826,0.875518672,211,242,241,?a
+?a  <hasOncologicalSurgery>  <Pleurodesis>   ,?a  <hasOncologicalTreatment>  <Chemotherapy>,OncologicalTreatment,0.016897601,0.943396226,0.961538462,50,53,52,?a
+?a  <hasOncologicalSurgery>  <Pneumonectomy>   ,?a  <hasOncologicalTreatment>  <Chemotherapy>,OncologicalTreatment,0.016559649,0.671232877,0.671232877,49,73,73,?a
+?a  <Biomarker>  <EGFR>   ,?a  <hasOncologicalTreatment>  <Chemotherapy>,OncologicalTreatment,0.026360257,0.939759036,0.939759036,78,83,83,?a
+?a  <hasOncologicalSurgery>  <Lymph_node_excision>   ,?a  <hasOncologicalTreatment>  <Chemotherapy>,OncologicalTreatment,0.065224738,0.618589744,0.620578778,193,312,311,?a
+?a  <Biomarker>  <PDL1>   ,?a  <hasOncologicalTreatment>  <Chemotherapy>,OncologicalTreatment,0.041568097,0.878571429,0.917910448,123,140,134,?a
+?a  <hasOncologicalSurgery>  <Lobectomy>   ,?a  <hasOncologicalTreatment>  <Chemotherapy>,OncologicalTreatment,0.089557283,0.590200445,0.590200445,265,449,449,?a
+?a  <hasOncologicalTreatment>  <Radiotherapy>  ?a  <hasStage>  <IIIB>   ,?a  <hasOncologicalTreatment>  <Chemotherapy-Radiotherapy>,OncologicalTreatment,0.021290977,0.642857143,0.642857143,63,98,98,?a
+?a  <hasOncologicalTreatment>  <Chemotherapy>  ?a  <hasOncologicalTreatment>  <Immunotherapy>   ,?a  <hasOncologicalTreatment>  <Chemotherapy-Radiotherapy>,OncologicalTreatment,0.015545792,0.220095694,0.220095694,46,209,209,?a
+?a  <hasOncologicalTreatment>  <Radical>  ?a  <hasStage>  <IIIB>   ,?a  <hasOncologicalTreatment>  <Chemotherapy-Radiotherapy>,OncologicalTreatment,0.01351808,0.634920635,0.634920635,40,63,63,?a
+?a  <hasOncologicalTreatment>  <Chemotherapy>  ?a  <hasStage>  <IIIB>   ,?a  <hasOncologicalTreatment>  <Chemotherapy-Radiotherapy>,OncologicalTreatment,0.022642785,0.507575758,0.507575758,67,132,132,?a
+?a  <hasOncologicalTreatment>  <Immunotherapy>  ?a  <hasOncologicalTreatment>  <Radiotherapy>   ,?a  <hasOncologicalTreatment>  <Chemotherapy-Radiotherapy>,OncologicalTreatment,0.015545792,0.333333333,0.333333333,46,138,138,?a
+?a  <hasOncologicalTreatment>  <Immunotherapy>  ?a  <hasOncologicalTreatment>  <Radical>   ,?a  <hasOncologicalTreatment>  <Chemotherapy-Radiotherapy>,OncologicalTreatment,0.01182832,0.555555556,0.555555556,35,63,63,?a
+?a  <hasOncologicalTreatment>  <Radiotherapy>  ?a  <hasStage>  <IIIA>   ,?a  <hasOncologicalTreatment>  <Chemotherapy-Radiotherapy>,OncologicalTreatment,0.030077729,0.536144578,0.536144578,89,166,166,?a
+?a  <hasOncologicalTreatment>  <Radical>  ?a  <hasStage>  <IIIA>   ,?a  <hasOncologicalTreatment>  <Chemotherapy-Radiotherapy>,OncologicalTreatment,0.020953025,0.704545455,0.704545455,62,88,88,?a
+?a  <hasOncologicalTreatment>  <Chemotherapy>  ?a  <hasStage>  <IIIA>   ,?a  <hasOncologicalTreatment>  <Chemotherapy-Radiotherapy>,OncologicalTreatment,0.030077729,0.421800948,0.421800948,89,211,211,?a
+?a  <hasOncologicalTreatment>  <Radical>  ?a  <hasOncologicalTreatment>  <Surgery>   ,?a  <hasOncologicalTreatment>  <Chemotherapy-Radiotherapy>,OncologicalTreatment,0.014531936,0.565789474,0.565789474,43,76,76,?a
+?a  <hasOncologicalTreatment>  <Radiotherapy>  ?a  <hasOncologicalTreatment>  <Surgery>   ,?a  <hasOncologicalTreatment>  <Chemotherapy-Radiotherapy>,OncologicalTreatment,0.018925313,0.314606742,0.314606742,56,178,178,?a
+?a  <hasOncologicalTreatment>  <Chemotherapy>  ?a  <hasOncologicalTreatment>  <Radiotherapy>   ,?a  <hasOncologicalTreatment>  <Chemotherapy-Radiotherapy>,OncologicalTreatment,0.06725245,0.34017094,0.34017094,199,585,585,?a
+?a  <hasOncologicalTreatment>  <Chemotherapy>  ?a  <hasOncologicalTreatment>  <Radical>   ,?a  <hasOncologicalTreatment>  <Chemotherapy-Radiotherapy>,OncologicalTreatment,0.046637377,0.5390625,0.5390625,138,256,256,?a
+?a  <hasOncologicalSurgery>  <Lymph_node_excision>  ?a  <hasOncologicalTreatment>  <Adjuvant>   ,?a  <hasOncologicalSurgery>  <Lobectomy>,OncologicalSurgery,0.029801325,1,1,27,27,27,?a
+?a  <hasOncologicalTreatment>  <Adjuvant>  ?a  <hasOncologicalTreatment>  <Surgery>   ,?a  <hasOncologicalSurgery>  <Lobectomy>,OncologicalSurgery,0.045253863,0.872340426,0.953488372,41,47,43,?a
+?a  <hasOncologicalTreatment>  <Radiotherapy>  ?a  <hasStage>  <IIB>   ,?a  <hasOncologicalSurgery>  <Lobectomy>,OncologicalSurgery,0.014348786,0.590909091,1,13,22,13,?a
+?a  <Biomarker>  <EGFR>  ?a  <hasOncologicalSurgery>  <Lymph_node_excision>   ,?a  <hasOncologicalSurgery>  <Lobectomy>,OncologicalSurgery,0.015452539,0.933333333,0.933333333,14,15,15,?a
+?a  <hasOncologicalSurgery>  <Lymph_node_excision>  ?a  <hasStage>  <IB>   ,?a  <hasOncologicalSurgery>  <Lobectomy>,OncologicalSurgery,0.055187638,1,1,50,50,50,?a
+?a  <hasOncologicalSurgery>  <Lymph_node_excision>  ?a  <hasStage>  <IIIA>   ,?a  <hasOncologicalSurgery>  <Lobectomy>,OncologicalSurgery,0.084988962,0.927710843,0.927710843,77,83,83,?a
+?a  <hasOncologicalSurgery>  <Lymph_node_excision>  ?a  <hasStage>  <IIA>   ,?a  <hasOncologicalSurgery>  <Lobectomy>,OncologicalSurgery,0.034216336,0.939393939,0.939393939,31,33,33,?a
+?a  <Biomarker>  <PDL1>  ?a  <hasOncologicalSurgery>  <Lymph_node_excision>   ,?a  <hasOncologicalSurgery>  <Lobectomy>,OncologicalSurgery,0.011037528,1,1,10,10,10,?a
+?a  <hasOncologicalSurgery>  <Lymph_node_excision>  ?a  <hasOncologicalTreatment>  <Surgery>   ,?a  <hasOncologicalSurgery>  <Lobectomy>,OncologicalSurgery,0.306843267,0.965277778,0.965277778,278,288,288,?a
+?a  <hasOncologicalSurgery>  <Lymph_node_excision>  ?a  <hasStage>  <IIIB>   ,?a  <hasOncologicalSurgery>  <Lobectomy>,OncologicalSurgery,0.017660044,0.941176471,0.941176471,16,17,17,?a
+?a  <Biomarker>  <ALK>  ?a  <hasOncologicalTreatment>  <Surgery>   ,?a  <hasOncologicalSurgery>  <Lobectomy>,OncologicalSurgery,0.011037528,0.909090909,1,10,11,10,?a
+?a  <Biomarker>  <EGFR>  ?a  <hasOncologicalTreatment>  <Surgery>   ,?a  <hasOncologicalSurgery>  <Lobectomy>,OncologicalSurgery,0.018763797,0.80952381,1,17,21,17,?a
+?a  <Biomarker>  <PDL1>  ?a  <hasOncologicalTreatment>  <Surgery>   ,?a  <hasOncologicalSurgery>  <Lobectomy>,OncologicalSurgery,0.01214128,0.423076923,1,11,26,11,?a
+?a  <hasOncologicalTreatment>  <Radical>  ?a  <hasStage>  <IVB>   ,?a  <Biomarker>  <PDL1>,Biomarker,0.034351145,0.5,0.9,9,18,10,?a
+?a  <hasOncologicalTreatment>  <Chemotherapy>  ?a  <hasStage>  <IIB>   ,?a  <hasOncologicalSurgery>  <Lobectomy>,OncologicalSurgery,0.037527594,0.693877551,1,34,49,34,?a
+?a  <hasOncologicalTreatment>  <Chemotherapy>  ?a  <hasStage>  <IB>   ,?a  <hasOncologicalSurgery>  <Lobectomy>,OncologicalSurgery,0.03200883,0.805555556,1,29,36,29,?a
+?a  <Biomarker>  <BRAF>  ?a  <hasOncologicalTreatment>  <Chemotherapy>   ,?a  <Biomarker>  <PDL1>,Biomarker,0.011450382,1,1,3,3,3,?a
+?a  <hasOncologicalTreatment>  <Radiotherapy>  ?a  <hasStage>  <IVA>   ,?a  <Biomarker>  <PDL1>,Biomarker,0.045801527,0.324324324,0.923076923,12,37,13,?a
+?a  <hasOncologicalTreatment>  <Surgery>  ?a  <hasStage>  <IVA>   ,?a  <Biomarker>  <PDL1>,Biomarker,0.015267176,0.363636364,1,4,11,4,?a
+?a  <hasOncologicalTreatment>  <Surgery>  ?a  <hasStage>  <IIIA>   ,?a  <Biomarker>  <PDL1>,Biomarker,0.045801527,0.081632653,0.48,12,147,25,?a
+?a  <hasOncologicalTreatment>  <Immunotherapy>  ?a  <hasStage>  <IIIA>   ,?a  <Biomarker>  <PDL1>,Biomarker,0.011450382,0.12,1,3,25,3,?a
+?a  <hasOncologicalTreatment>  <Radiotherapy>  ?a  <hasStage>  <IVB>   ,?a  <Biomarker>  <PDL1>,Biomarker,0.129770992,0.453333333,0.829268293,34,75,41,?a
+?a  <hasOncologicalTreatment>  <Immunotherapy>  ?a  <hasStage>  <IVB>   ,?a  <Biomarker>  <PDL1>,Biomarker,0.106870229,0.666666667,0.965517241,28,42,29,?a
+?a  <hasOncologicalTreatment>  <Immunotherapy>  ?a  <hasStage>  <IVA>   ,?a  <Biomarker>  <PDL1>,Biomarker,0.076335878,0.526315789,1,20,38,20,?a
+?a  <hasOncologicalTreatment>  <Chemotherapy-Radiotherapy>  ?a  <hasStage>  <IIIA>   ,?a  <Biomarker>  <PDL1>,Biomarker,0.026717557,0.078651685,0.7,7,89,10,?a
+?a  <hasOncologicalTreatment>  <Chemotherapy-Radiotherapy>  ?a  <hasOncologicalTreatment>  <Surgery>   ,?a  <Biomarker>  <PDL1>,Biomarker,0.019083969,0.089285714,0.714285714,5,56,7,?a
+?a  <hasOncologicalSurgery>  <Lobectomy>  ?a  <hasOncologicalSurgery>  <Lymph_node_excision>   ,?a  <Biomarker>  <PDL1>,Biomarker,0.038167939,0.034602076,0.344827586,10,289,29,?a
+?a  <hasOncologicalTreatment>  <Immunotherapy>  ?a  <hasOncologicalTreatment>  <Radical>   ,?a  <Biomarker>  <PDL1>,Biomarker,0.076335878,0.317460317,0.952380952,20,63,21,?a
+?a  <hasOncologicalTreatment>  <Chemotherapy-Radiotherapy>  ?a  <hasOncologicalTreatment>  <Radical>   ,?a  <Biomarker>  <PDL1>,Biomarker,0.064885496,0.123188406,0.708333333,17,138,24,?a
+?a  <hasOncologicalTreatment>  <Chemotherapy-Radiotherapy>  ?a  <hasOncologicalTreatment>  <Radiotherapy>   ,?a  <hasOncologicalTreatment>  <Immunotherapy>,OncologicalTreatment,0.015545792,0.231155779,0.231155779,46,199,199,?a
+?a  <hasOncologicalTreatment>  <Chemotherapy>  ?a  <hasOncologicalTreatment>  <Radical>   ,?a  <hasOncologicalTreatment>  <Immunotherapy>,OncologicalTreatment,0.021290977,0.24609375,0.24609375,63,256,256,?a
+?a  <hasOncologicalTreatment>  <Chemotherapy>  ?a  <hasOncologicalTreatment>  <Immunotherapy>   ,?a  <Biomarker>  <PDL1>,Biomarker,0.278625954,0.349282297,0.935897436,73,209,78,?a
+?a  <hasOncologicalTreatment>  <Chemotherapy-Radiotherapy>  ?a  <hasOncologicalTreatment>  <Radical>   ,?a  <hasOncologicalTreatment>  <Immunotherapy>,OncologicalTreatment,0.01182832,0.253623188,0.253623188,35,138,138,?a
+?a  <hasOncologicalTreatment>  <Chemotherapy>  ?a  <hasStage>  <IVA>   ,?a  <hasOncologicalTreatment>  <Immunotherapy>,OncologicalTreatment,0.012504224,0.536231884,0.536231884,37,69,69,?a
+?a  <hasOncologicalTreatment>  <Radiotherapy>  ?a  <hasStage>  <IVB>   ,?a  <hasOncologicalTreatment>  <Immunotherapy>,OncologicalTreatment,0.01013856,0.4,0.4,30,75,75,?a
+?a  <hasOncologicalTreatment>  <Chemotherapy-Radiotherapy>  ?a  <hasOncologicalTreatment>  <Immunotherapy>   ,?a  <hasOncologicalTreatment>  <Radical>,OncologicalTreatment,0.01182832,0.760869565,0.760869565,35,46,46,?a
+?a  <Biomarker>  <PDL1>  ?a  <hasOncologicalTreatment>  <Radiotherapy>   ,?a  <hasOncologicalTreatment>  <Immunotherapy>,OncologicalTreatment,0.015883745,0.61038961,0.61038961,47,77,77,?a
+?a  <hasOncologicalTreatment>  <Chemotherapy>  ?a  <hasOncologicalTreatment>  <Radiotherapy>   ,?a  <hasOncologicalTreatment>  <Immunotherapy>,OncologicalTreatment,0.046299425,0.234188034,0.234188034,137,585,585,?a
+?a  <hasOncologicalTreatment>  <Chemotherapy>  ?a  <hasStage>  <IVB>   ,?a  <hasOncologicalTreatment>  <Immunotherapy>,OncologicalTreatment,0.014193984,0.385321101,0.385321101,42,109,109,?a
+?a  <Biomarker>  <PDL1>  ?a  <hasOncologicalTreatment>  <Chemotherapy>   ,?a  <hasOncologicalTreatment>  <Immunotherapy>,OncologicalTreatment,0.024670497,0.593495935,0.593495935,73,123,123,?a
+?a  <hasOncologicalTreatment>  <Radiotherapy>  ?a  <hasOncologicalTreatment>  <Surgery>   ,?a  <hasOncologicalTreatment>  <Radical>,OncologicalTreatment,0.025684353,0.426966292,0.426966292,76,178,178,?a
+?a  <hasOncologicalTreatment>  <Chemotherapy-Radiotherapy>  ?a  <hasOncologicalTreatment>  <Surgery>   ,?a  <hasOncologicalTreatment>  <Radical>,OncologicalTreatment,0.014531936,0.767857143,0.767857143,43,56,56,?a
+?a  <hasOncologicalTreatment>  <Chemotherapy-Radiotherapy>  ?a  <hasOncologicalTreatment>  <Radiotherapy>   ,?a  <hasOncologicalTreatment>  <Radical>,OncologicalTreatment,0.046637377,0.693467337,0.693467337,138,199,199,?a
+?a  <hasOncologicalTreatment>  <Chemotherapy-Radiotherapy>  ?a  <hasStage>  <IIIA>   ,?a  <hasOncologicalTreatment>  <Radical>,OncologicalTreatment,0.020953025,0.696629213,0.696629213,62,89,89,?a
+?a  <hasOncologicalTreatment>  <Immunotherapy>  ?a  <hasOncologicalTreatment>  <Radiotherapy>   ,?a  <hasOncologicalTreatment>  <Radical>,OncologicalTreatment,0.021290977,0.456521739,0.456521739,63,138,138,?a
+?a  <hasOncologicalTreatment>  <Chemotherapy>  ?a  <hasStage>  <IIIB>   ,?a  <hasOncologicalTreatment>  <Radical>,OncologicalTreatment,0.021290977,0.477272727,0.477272727,63,132,132,?a
+?a  <hasOncologicalTreatment>  <Chemotherapy>  ?a  <hasOncologicalTreatment>  <Immunotherapy>   ,?a  <hasOncologicalTreatment>  <Radical>,OncologicalTreatment,0.021290977,0.301435407,0.301435407,63,209,209,?a
+?a  <hasOncologicalTreatment>  <Radiotherapy>  ?a  <hasStage>  <IIIB>   ,?a  <hasOncologicalTreatment>  <Radical>,OncologicalTreatment,0.021290977,0.642857143,0.642857143,63,98,98,?a
+?a  <hasOncologicalTreatment>  <Chemotherapy>  ?a  <hasOncologicalTreatment>  <Radiotherapy>   ,?a  <hasOncologicalTreatment>  <Radical>,OncologicalTreatment,0.086515715,0.437606838,0.437606838,256,585,585,?a
+?a  <hasOncologicalTreatment>  <Chemotherapy-Radiotherapy>  ?a  <hasOncologicalTreatment>  <Radiotherapy>   ,?a  <hasOncologicalTreatment>  <Surgery>,OncologicalTreatment,0.018925313,0.281407035,0.281407035,56,199,199,?a
+?a  <hasOncologicalTreatment>  <Radiotherapy>  ?a  <hasStage>  <IIIA>   ,?a  <hasOncologicalTreatment>  <Radical>,OncologicalTreatment,0.029739777,0.530120482,0.530120482,88,166,166,?a
+?a  <hasOncologicalTreatment>  <Chemotherapy>  ?a  <hasStage>  <IIIA>   ,?a  <hasOncologicalTreatment>  <Radical>,OncologicalTreatment,0.028387969,0.398104265,0.398104265,84,211,211,?a
+?a  <hasOncologicalTreatment>  <Chemotherapy-Radiotherapy>  ?a  <hasOncologicalTreatment>  <Radical>   ,?a  <hasOncologicalTreatment>  <Surgery>,OncologicalTreatment,0.014531936,0.311594203,0.311594203,43,138,138,?a
+?a  <hasOncologicalSurgery>  <Lobectomy>  ?a  <hasOncologicalTreatment>  <Adjuvant>   ,?a  <hasOncologicalTreatment>  <Surgery>,OncologicalTreatment,0.013856032,0.953488372,0.953488372,41,43,43,?a
+?a  <hasOncologicalSurgery>  <Lymph_node_excision>  ?a  <hasStage>  <IIA>   ,?a  <hasOncologicalTreatment>  <Surgery>,OncologicalTreatment,0.011152416,1,1,33,33,33,?a
+?a  <hasOncologicalTreatment>  <Adjuvant>  ?a  <hasStage>  <IIIA>   ,?a  <hasOncologicalTreatment>  <Surgery>,OncologicalTreatment,0.010476512,0.885714286,0.885714286,31,35,35,?a
+?a  <hasOncologicalSurgery>  <Lymph_node_excision>  ?a  <hasStage>  <IA>   ,?a  <hasOncologicalTreatment>  <Surgery>,OncologicalTreatment,0.021966881,1,1,65,65,65,?a
+?a  <hasOncologicalSurgery>  <Lymph_node_excision>  ?a  <hasStage>  <IIB>   ,?a  <hasOncologicalTreatment>  <Surgery>,OncologicalTreatment,0.01182832,1,1,35,35,35,?a
+?a  <hasOncologicalSurgery>  <Lobectomy>  ?a  <hasStage>  <IIIA>   ,?a  <hasOncologicalTreatment>  <Surgery>,OncologicalTreatment,0.040216289,0.952,0.952,119,125,125,?a
+?a  <hasOncologicalSurgery>  <Lobectomy>  ?a  <hasStage>  <IIA>   ,?a  <hasOncologicalTreatment>  <Surgery>,OncologicalTreatment,0.01520784,1,1,45,45,45,?a
+?a  <hasOncologicalSurgery>  <Lymph_node_excision>  ?a  <hasStage>  <IB>   ,?a  <hasOncologicalTreatment>  <Surgery>,OncologicalTreatment,0.016897601,1,1,50,50,50,?a
+?a  <hasOncologicalSurgery>  <Lymph_node_excision>  ?a  <hasStage>  <IIIA>   ,?a  <hasOncologicalTreatment>  <Surgery>,OncologicalTreatment,0.027036161,0.963855422,0.963855422,80,83,83,?a
+?a  <hasOncologicalSurgery>  <Lobectomy>  ?a  <hasStage>  <IIB>   ,?a  <hasOncologicalTreatment>  <Surgery>,OncologicalTreatment,0.017235553,1,1,51,51,51,?a
+?a  <hasOncologicalSurgery>  <Lobectomy>  ?a  <hasStage>  <IB>   ,?a  <hasOncologicalTreatment>  <Surgery>,OncologicalTreatment,0.027036161,1,1,80,80,80,?a
+?a  <hasOncologicalSurgery>  <Lobectomy>  ?a  <hasStage>  <IA>   ,?a  <hasOncologicalTreatment>  <Surgery>,OncologicalTreatment,0.029739777,0.988764045,0.988764045,88,89,89,?a
+?a  <hasOncologicalSurgery>  <Lobectomy>  ?a  <hasStage>  <IV>   ,?a  <hasOncologicalSurgery>  <Lymph_node_excision>,OncologicalSurgery,0.016556291,0.652173913,0.652173913,15,23,23,?a
+?a  <hasOncologicalSurgery>  <Lobectomy>  ?a  <hasStage>  <IIA>   ,?a  <hasOncologicalSurgery>  <Lymph_node_excision>,OncologicalSurgery,0.034216336,0.688888889,0.688888889,31,45,45,?a
+?a  <hasOncologicalSurgery>  <Lobectomy>  ?a  <hasOncologicalSurgery>  <Lymph_node_excision>   ,?a  <hasOncologicalTreatment>  <Surgery>,OncologicalTreatment,0.093950659,0.961937716,0.961937716,278,289,289,?a
+?a  <hasOncologicalSurgery>  <Lobectomy>  ?a  <hasOncologicalTreatment>  <Radiotherapy>   ,?a  <hasOncologicalSurgery>  <Lymph_node_excision>,OncologicalSurgery,0.11589404,0.68627451,0.68627451,105,153,153,?a
+?a  <hasOncologicalSurgery>  <Lobectomy>  ?a  <hasOncologicalTreatment>  <Chemotherapy>   ,?a  <hasOncologicalSurgery>  <Lymph_node_excision>,OncologicalSurgery,0.193156733,0.660377358,0.660377358,175,265,265,?a
+?a  <hasOncologicalTreatment>  <Chemotherapy>  ?a  <hasStage>  <IIA>   ,?a  <hasOncologicalSurgery>  <Lymph_node_excision>,OncologicalSurgery,0.027593819,0.735294118,0.78125,25,34,32,?a
+?a  <hasOncologicalSurgery>  <Lobectomy>  ?a  <hasOncologicalTreatment>  <Surgery>   ,?a  <hasOncologicalSurgery>  <Lymph_node_excision>,OncologicalSurgery,0.306843267,0.658767773,0.658767773,278,422,422,?a
+?a  <hasOncologicalSurgery>  <Lobectomy>  ?a  <hasOncologicalTreatment>  <Immunotherapy>   ,?a  <hasOncologicalSurgery>  <Lymph_node_excision>,OncologicalSurgery,0.026490066,0.705882353,0.705882353,24,34,34,?a
+?a  <hasOncologicalTreatment>  <Radiotherapy>  ?a  <hasStage>  <IA>   ,?a  <hasOncologicalSurgery>  <Lymph_node_excision>,OncologicalSurgery,0.015452539,0.636363636,0.823529412,14,22,17,?a
+?a  <Biomarker>  <PDL1>  ?a  <hasOncologicalSurgery>  <Lobectomy>   ,?a  <hasOncologicalSurgery>  <Lymph_node_excision>,OncologicalSurgery,0.011037528,0.769230769,0.769230769,10,13,13,?a
+?a  <Biomarker>  <EGFR>  ?a  <hasOncologicalSurgery>  <Lobectomy>   ,?a  <hasOncologicalSurgery>  <Lymph_node_excision>,OncologicalSurgery,0.015452539,0.736842105,0.736842105,14,19,19,?a
+?a  <hasOncologicalTreatment>  <Surgery>  ?a  <hasStage>  <IA>   ,?a  <hasOncologicalSurgery>  <Lymph_node_excision>,OncologicalSurgery,0.071743929,0.637254902,0.722222222,65,102,90,?a
+?a  <hasOncologicalTreatment>  <Chemotherapy>  ?a  <hasStage>  <IA>   ,?a  <hasOncologicalSurgery>  <Lymph_node_excision>,OncologicalSurgery,0.016556291,0.652173913,0.882352941,15,23,17,?a
+?a  <hasOncologicalTreatment>  <Adjuvant>  ?a  <hasStage>  <IIIA>   ,?a  <hasOncologicalSurgery>  <Lymph_node_excision>,OncologicalSurgery,0.01986755,0.514285714,0.620689655,18,35,29,?a
+?a  <hasOncologicalTreatment>  <Radiotherapy>  ?a  <hasStage>  <IIIA>   ,?a  <hasOncologicalSurgery>  <Lymph_node_excision>,OncologicalSurgery,0.059602649,0.325301205,0.642857143,54,166,84,?a
+?a  <hasOncologicalTreatment>  <Chemotherapy>  ?a  <hasStage>  <IIIA>   ,?a  <hasOncologicalSurgery>  <Lymph_node_excision>,OncologicalSurgery,0.079470199,0.341232227,0.615384615,72,211,117,?a
+?a  <hasOncologicalTreatment>  <Chemotherapy>  ?a  <hasStage>  <IIB>   ,?a  <hasOncologicalSurgery>  <Lymph_node_excision>,OncologicalSurgery,0.026490066,0.489795918,0.705882353,24,49,34,?a
+?a  <hasOncologicalTreatment>  <Chemotherapy-Radiotherapy>  ?a  <hasOncologicalTreatment>  <Surgery>   ,?a  <hasOncologicalSurgery>  <Lymph_node_excision>,OncologicalSurgery,0.028697572,0.464285714,0.65,26,56,40,?a
+?a  <hasOncologicalTreatment>  <Radiotherapy>  ?a  <hasOncologicalTreatment>  <Surgery>   ,?a  <hasOncologicalSurgery>  <Lymph_node_excision>,OncologicalSurgery,0.114790287,0.584269663,0.702702703,104,178,148,?a
+?a  <Biomarker>  <EGFR>  ?a  <hasOncologicalTreatment>  <Surgery>   ,?a  <hasOncologicalSurgery>  <Lymph_node_excision>,OncologicalSurgery,0.014348786,0.619047619,0.764705882,13,21,17,?a
+?a  <hasOncologicalTreatment>  <Chemotherapy>  ?a  <hasOncologicalTreatment>  <Surgery>   ,?a  <hasOncologicalSurgery>  <Lymph_node_excision>,OncologicalSurgery,0.189845475,0.547770701,0.674509804,172,314,255,?a
+?a  <Biomarker>  <EGFR>  ?a  <hasOncologicalTreatment>  <Radiotherapy>   ,?a  <hasStage>  <IV>,Stage,0.01610306,0.434782609,0.434782609,20,46,46,?a
+?a  <hasOncologicalSurgery>  <Lymph_node_excision>  ?a  <hasOncologicalTreatment>  <Surgery>   ,?a  <hasStage>  <IA>,Stage,0.052334944,0.225694444,0.225694444,65,288,288,?a
+?a  <Biomarker>  <PDL1>  ?a  <hasOncologicalTreatment>  <Immunotherapy>   ,?a  <hasStage>  <IVB>,Stage,0.022544283,0.383561644,0.383561644,28,73,73,?a
+?a  <hasOncologicalTreatment>  <Immunotherapy>  ?a  <hasOncologicalTreatment>  <Radiotherapy>   ,?a  <hasStage>  <IVB>,Stage,0.024154589,0.217391304,0.217391304,30,138,138,?a
+?a  <hasOncologicalTreatment>  <Chemotherapy>  ?a  <hasOncologicalTreatment>  <Immunotherapy>   ,?a  <hasStage>  <IVB>,Stage,0.033816425,0.200956938,0.200956938,42,209,209,?a
+?a  <hasOncologicalSurgery>  <Lobectomy>  ?a  <hasOncologicalTreatment>  <Surgery>   ,?a  <hasStage>  <IA>,Stage,0.070853462,0.208530806,0.208530806,88,422,422,?a
+?a  <Biomarker>  <PDL1>  ?a  <hasOncologicalTreatment>  <Radiotherapy>   ,?a  <hasStage>  <IVB>,Stage,0.027375201,0.441558442,0.441558442,34,77,77,?a
+?a  <hasOncologicalSurgery>  <Lobectomy>  ?a  <hasOncologicalSurgery>  <Lymph_node_excision>   ,?a  <hasStage>  <IA>,Stage,0.050724638,0.21799308,0.21799308,63,289,289,?a
+?a  <Biomarker>  <EGFR>  ?a  <hasOncologicalTreatment>  <Chemotherapy>   ,?a  <hasStage>  <IVB>,Stage,0.01610306,0.256410256,0.256410256,20,78,78,?a
+?a  <Biomarker>  <PDL1>  ?a  <hasOncologicalTreatment>  <Chemotherapy>   ,?a  <hasStage>  <IVB>,Stage,0.037037037,0.37398374,0.37398374,46,123,123,?a
+?a  <hasOncologicalTreatment>  <Chemotherapy-Radiotherapy>  ?a  <hasOncologicalTreatment>  <Neoadjuvant>   ,?a  <hasStage>  <IIIB>,Stage,0.010466989,0.481481481,0.481481481,13,27,27,?a
+?a  <hasOncologicalTreatment>  <Chemotherapy>  ?a  <hasOncologicalTreatment>  <Radical>   ,?a  <hasStage>  <IIIB>,Stage,0.050724638,0.24609375,0.24609375,63,256,256,?a
+?a  <hasOncologicalTreatment>  <Chemotherapy>  ?a  <hasOncologicalTreatment>  <Radiotherapy>   ,?a  <hasStage>  <IIIB>,Stage,0.077294686,0.164102564,0.164102564,96,585,585,?a
+?a  <hasOncologicalTreatment>  <Chemotherapy-Radiotherapy>  ?a  <hasOncologicalTreatment>  <Radical>   ,?a  <hasStage>  <IIIA>,Stage,0.049919485,0.449275362,0.449275362,62,138,138,?a
+?a  <hasOncologicalSurgery>  <Lymph_node_excision>  ?a  <hasOncologicalTreatment>  <Chemotherapy-Radiotherapy>   ,?a  <hasStage>  <IIIA>,Stage,0.012077295,0.454545455,0.454545455,15,33,33,?a
+?a  <hasOncologicalSurgery>  <Lobectomy>  ?a  <hasOncologicalTreatment>  <Chemotherapy-Radiotherapy>   ,?a  <hasStage>  <IIIA>,Stage,0.016908213,0.5,0.5,21,42,42,?a
+?a  <hasOncologicalSurgery>  <Lobectomy>  ?a  <hasOncologicalTreatment>  <Surgery>   ,?a  <hasStage>  <IIIA>,Stage,0.095813205,0.281990521,0.281990521,119,422,422,?a
+?a  <hasOncologicalTreatment>  <Chemotherapy-Radiotherapy>  ?a  <hasOncologicalTreatment>  <Surgery>   ,?a  <hasStage>  <IIIA>,Stage,0.020933977,0.464285714,0.464285714,26,56,56,?a
+?a  <hasOncologicalTreatment>  <Chemotherapy-Radiotherapy>  ?a  <hasOncologicalTreatment>  <Radiotherapy>   ,?a  <hasStage>  <IIIA>,Stage,0.071658615,0.447236181,0.447236181,89,199,199,?a
+?a  <hasOncologicalTreatment>  <Radiotherapy>  ?a  <hasOncologicalTreatment>  <Surgery>   ,?a  <hasStage>  <IIIA>,Stage,0.066022544,0.460674157,0.460674157,82,178,178,?a
+?a  <hasOncologicalTreatment>  <Radical>  ?a  <hasOncologicalTreatment>  <Surgery>   ,?a  <hasStage>  <IIIA>,Stage,0.026570048,0.434210526,0.434210526,33,76,76,?a
+?a  <hasOncologicalTreatment>  <Adjuvant>  ?a  <hasOncologicalTreatment>  <Surgery>   ,?a  <hasStage>  <IIIA>,Stage,0.024959742,0.659574468,0.659574468,31,47,47,?a
+?a  <hasOncologicalTreatment>  <Chemotherapy>  ?a  <hasOncologicalTreatment>  <Neoadjuvant>   ,?a  <hasStage>  <IIIA>,Stage,0.016908213,0.617647059,0.617647059,21,34,34,?a
+?a  <hasOncologicalTreatment>  <Chemotherapy>  ?a  <hasOncologicalTreatment>  <Surgery>   ,?a  <hasStage>  <IIIA>,Stage,0.098228663,0.388535032,0.388535032,122,314,314,?a
+?a  <hasOncologicalSurgery>  <Pneumonectomy>  ?a  <hasOncologicalTreatment>  <Radiotherapy>   ,?a  <hasStage>  <IIIA>,Stage,0.01610306,0.571428571,0.571428571,20,35,35,?a
+?a  <hasOncologicalSurgery>  <Pneumonectomy>  ?a  <hasOncologicalTreatment>  <Surgery>   ,?a  <hasStage>  <IIIA>,Stage,0.020933977,0.426229508,0.426229508,26,61,61,?a
+?a  <hasOncologicalSurgery>  <Lymph_node_excision>  ?a  <hasOncologicalSurgery>  <Pneumonectomy>   ,?a  <hasStage>  <IIIA>,Stage,0.012077295,0.416666667,0.416666667,15,36,36,?a
+?a  <hasOncologicalSurgery>  <Lymph_node_excision>  ?a  <hasOncologicalTreatment>  <Chemotherapy>   ,?a  <hasStage>  <IIIA>,Stage,0.057971014,0.373056995,0.373056995,72,193,193,?a
+?a  <hasOncologicalSurgery>  <Lobectomy>  ?a  <hasOncologicalTreatment>  <Chemotherapy>   ,?a  <hasStage>  <IIIA>,Stage,0.08373591,0.39245283,0.39245283,104,265,265,?a
+?a  <hasOncologicalSurgery>  <Lymph_node_excision>  ?a  <hasOncologicalTreatment>  <Radiotherapy>   ,?a  <hasStage>  <IIIA>,Stage,0.043478261,0.453781513,0.453781513,54,119,119,?a
+?a  <hasOncologicalTreatment>  <Chemotherapy>  ?a  <hasOncologicalTreatment>  <Radiotherapy>   ,?a  <hasStage>  <IIIA>,Stage,0.124798712,0.264957265,0.264957265,155,585,585,?a
+?a  <hasOncologicalTreatment>  <Adjuvant>  ?a  <hasOncologicalTreatment>  <Chemotherapy>   ,?a  <hasStage>  <IIIA>,Stage,0.026570048,0.589285714,0.589285714,33,56,56,?a
+?a  <hasOncologicalSurgery>  <Lobectomy>  ?a  <hasOncologicalTreatment>  <Radiotherapy>   ,?a  <hasStage>  <IIIA>,Stage,0.057165862,0.464052288,0.464052288,71,153,153,?a
+?a  <hasOncologicalSurgery>  <Lymph_node_excision>  ?a  <hasOncologicalTreatment>  <Radical>   ,?a  <hasStage>  <IIIA>,Stage,0.014492754,0.45,0.45,18,40,40,?a
+?a  <hasOncologicalSurgery>  <Lobectomy>  ?a  <hasOncologicalTreatment>  <Radical>   ,?a  <hasStage>  <IIIA>,Stage,0.020933977,0.448275862,0.448275862,26,58,58,?a
+?a  <hasOncologicalSurgery>  <Lymph_node_excision>  ?a  <hasOncologicalTreatment>  <Adjuvant>   ,?a  <hasStage>  <IIIA>,Stage,0.014492754,0.666666667,0.666666667,18,27,27,?a
+?a  <hasOncologicalSurgery>  <Pneumonectomy>  ?a  <hasOncologicalTreatment>  <Chemotherapy>   ,?a  <hasStage>  <IIIA>,Stage,0.02173913,0.551020408,0.551020408,27,49,49,?a
+?a  <hasOncologicalTreatment>  <Chemotherapy-Radiotherapy>  ?a  <hasOncologicalTreatment>  <Surgery>   ,?a  <hasOncologicalTreatment>  <Radiotherapy>,OncologicalTreatment,0.018925313,1,1,56,56,56,?a
+?a  <hasOncologicalTreatment>  <Immunotherapy>  ?a  <hasStage>  <IVB>   ,?a  <hasOncologicalTreatment>  <Radiotherapy>,OncologicalTreatment,0.01013856,0.714285714,0.714285714,30,42,42,?a
+?a  <hasOncologicalSurgery>  <Lobectomy>  ?a  <hasOncologicalTreatment>  <Adjuvant>   ,?a  <hasStage>  <IIIA>,Stage,0.02173913,0.627906977,0.627906977,27,43,43,?a
+?a  <hasOncologicalTreatment>  <Chemotherapy-Radiotherapy>  ?a  <hasStage>  <IIIA>   ,?a  <hasOncologicalTreatment>  <Radiotherapy>,OncologicalTreatment,0.030077729,1,1,89,89,89,?a
+?a  <hasOncologicalSurgery>  <Lymph_node_excision>  ?a  <hasOncologicalTreatment>  <Chemotherapy-Radiotherapy>   ,?a  <hasOncologicalTreatment>  <Radiotherapy>,OncologicalTreatment,0.011152416,1,1,33,33,33,?a
+?a  <hasOncologicalTreatment>  <Chemotherapy-Radiotherapy>  ?a  <hasOncologicalTreatment>  <Immunotherapy>   ,?a  <hasOncologicalTreatment>  <Radiotherapy>,OncologicalTreatment,0.015545792,1,1,46,46,46,?a
+?a  <hasOncologicalSurgery>  <Lobectomy>  ?a  <hasOncologicalTreatment>  <Chemotherapy-Radiotherapy>   ,?a  <hasOncologicalTreatment>  <Radiotherapy>,OncologicalTreatment,0.014193984,1,1,42,42,42,?a
+?a  <hasOncologicalTreatment>  <Chemotherapy>  ?a  <hasStage>  <IIIA>   ,?a  <hasOncologicalTreatment>  <Radiotherapy>,OncologicalTreatment,0.052382562,0.734597156,0.734597156,155,211,211,?a
+?a  <hasOncologicalTreatment>  <Chemotherapy>  ?a  <hasOncologicalTreatment>  <Immunotherapy>   ,?a  <hasOncologicalTreatment>  <Radiotherapy>,OncologicalTreatment,0.046299425,0.655502392,0.655502392,137,209,209,?a
+?a  <Biomarker>  <PDL1>  ?a  <hasStage>  <IVB>   ,?a  <hasOncologicalTreatment>  <Radiotherapy>,OncologicalTreatment,0.011490368,0.653846154,0.666666667,34,52,51,?a
+?a  <hasOncologicalTreatment>  <Chemotherapy>  ?a  <hasStage>  <IIIB>   ,?a  <hasOncologicalTreatment>  <Radiotherapy>,OncologicalTreatment,0.032443393,0.727272727,0.727272727,96,132,132,?a
+?a  <hasOncologicalTreatment>  <Immunotherapy>  ?a  <hasOncologicalTreatment>  <Radiotherapy>   ,?a  <hasOncologicalTreatment>  <Chemotherapy>,OncologicalTreatment,0.046299425,0.992753623,0.992753623,137,138,138,?a
+?a  <hasOncologicalTreatment>  <Immunotherapy>  ?a  <hasOncologicalTreatment>  <Radical>   ,?a  <hasOncologicalTreatment>  <Chemotherapy>,OncologicalTreatment,0.021290977,1,1,63,63,63,?a
+?a  <hasOncologicalTreatment>  <Immunotherapy>  ?a  <hasStage>  <IVB>   ,?a  <hasOncologicalTreatment>  <Chemotherapy>,OncologicalTreatment,0.014193984,1,1,42,42,42,?a
+?a  <Biomarker>  <PDL1>  ?a  <hasOncologicalTreatment>  <Immunotherapy>   ,?a  <hasOncologicalTreatment>  <Chemotherapy>,OncologicalTreatment,0.024670497,1,1,73,73,73,?a
+?a  <hasOncologicalSurgery>  <Lobectomy>  ?a  <hasOncologicalTreatment>  <Immunotherapy>   ,?a  <hasOncologicalTreatment>  <Chemotherapy>,OncologicalTreatment,0.011490368,1,1,34,34,34,?a
+?a  <Biomarker>  <EGFR>  ?a  <hasOncologicalTreatment>  <Radiotherapy>   ,?a  <hasOncologicalTreatment>  <Chemotherapy>,OncologicalTreatment,0.01520784,0.97826087,0.97826087,45,46,46,?a
+?a  <hasOncologicalTreatment>  <Radical>  ?a  <hasStage>  <IV>   ,?a  <hasOncologicalTreatment>  <Chemotherapy>,OncologicalTreatment,0.01013856,0.967741935,0.967741935,30,31,31,?a
+?a  <hasOncologicalTreatment>  <Radiotherapy>  ?a  <hasStage>  <IIIA>   ,?a  <hasOncologicalTreatment>  <Chemotherapy>,OncologicalTreatment,0.052382562,0.93373494,0.93373494,155,166,166,?a
+?a  <hasOncologicalTreatment>  <Radiotherapy>  ?a  <hasStage>  <IIIB>   ,?a  <hasOncologicalTreatment>  <Chemotherapy>,OncologicalTreatment,0.032443393,0.979591837,0.979591837,96,98,98,?a
+?a  <hasOncologicalTreatment>  <Adjuvant>  ?a  <hasStage>  <IIIA>   ,?a  <hasOncologicalTreatment>  <Chemotherapy>,OncologicalTreatment,0.011152416,0.942857143,0.942857143,33,35,35,?a
+?a  <hasOncologicalSurgery>  <Pleurodesis>  ?a  <hasStage>  <IV>   ,?a  <hasOncologicalTreatment>  <Chemotherapy>,OncologicalTreatment,0.010814464,0.941176471,0.96969697,32,34,33,?a
+?a  <hasOncologicalTreatment>  <Radical>  ?a  <hasStage>  <IIIB>   ,?a  <hasOncologicalTreatment>  <Chemotherapy>,OncologicalTreatment,0.021290977,1,1,63,63,63,?a
+?a  <Biomarker>  <PDL1>  ?a  <hasOncologicalTreatment>  <Radical>   ,?a  <hasOncologicalTreatment>  <Chemotherapy>,OncologicalTreatment,0.010476512,0.96875,0.96875,31,32,32,?a
