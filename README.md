@@ -1,5 +1,5 @@
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](LICENSE)
-[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SDM-TIB/Mining_Symbolic_Rules_ESWC2023Demo/HEAD?labpath=Mining%20Symbolic%20Rules%20To%20Explain%20Lung%20Cancer%20Treatments.ipynb)
+[![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/SDM-TIB/DIGGER-ESWC2023Demo/HEAD?labpath=Mining%20Symbolic%20Rules%20To%20Explain%20Lung%20Cancer%20Treatments.ipynb)
 
 # DIGGER ESWC2023Demo
 
@@ -24,7 +24,7 @@ For demonstration, our approach utilizes the subset of **P4-LUCAT KG**.
 ## Getting Started
 Clone the repository
 ```python
-git clone git@github.com:SDM-TIB/Mining_Symbolic_Rules_ESWC2023Demo.git
+git clone git@github.com:SDM-TIB/DIGGER-ESWC2023Demo.git
 ```
 To run the demo
 You can then access the demo notebook by clicking on the Binder badge above and execute the Jupyter notebook there. 
