@@ -10,7 +10,7 @@ The goal of this research is to examine the mined logical rules from which true 
 
 For the experiments in the current example, we use **rdfs:subPropertyOf** to clearly demonstrate the impact of injecting entailment regimes in mining logical rules. The addition of entailment regimes increases metric values and potential true predictions. Inferred PCA has increased. For example, rule confidence quantifies the KG's partial completion by identifying more productive rules.
 
-![Null Hypothesis Test](Plots/Distribution of PCA Confidence.png "Histogram for Distribution of PCA Confidence")
+![Null Hypothesis Test](Plots/Distribution_of_PCA_Confidence.png "Histogram for Distribution of PCA Confidence")
 
 The null hypothesis test was used to ensure statistical independence between the PCA Confidence and Inferred PCA Confidence metrics, as shown in the results. When semantics are considered, the variation in the frequency distribution of metrics indicates that KGs may be completed with true predictions.
 
