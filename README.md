@@ -19,7 +19,7 @@ The null hypothesis test was used to ensure statistical independence between the
 
 ## Demonstration
 This repository contains the jupyter notebook (`Mining Symbolic Rules To Explain Lung Cancer Treatments.ipynb`) for a simple demonstration of our framework.
-For demonstration, our approach utilizes the subset of **P4-LUCAT KG**.
+For demonstration, our approach utilizes the subset of **P4-LUCAT KG**. A video for the demonstration is available [`online`](https://www.youtube.com/watch?v=CN4a3kUjfJ4&ab_channel=TIBSDMGroup).
 
 ## Getting Started
 Clone the repository
